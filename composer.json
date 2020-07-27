@@ -1,0 +1,9 @@
+{
+  "require":{
+    "slim/slim":"2.*",
+    "slim/psr7": "^1.1"
+  },
+  "autoload":{
+    "classmap":["piramide-uploader"]
+  }
+}
